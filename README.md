@@ -21,7 +21,7 @@ Tienda-moto2/
 │ ├── carrito.js
 │ └── scripts.js
 ├── img/
-│ └── (imágenes de motos y elementos visuales)
+│ └── (imágenes de motos )
 └── README.md
 
 
